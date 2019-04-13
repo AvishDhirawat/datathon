@@ -1,0 +1,6 @@
+DroneScan has developed an airborne data collection system to provide large uniform warehouses with a robotic solution for stock take (inventory), providing live feedback and integration with Warehouse Management systems. It has proven to save hundreds of man-hours but most importantly has provided a safer alternative to traditional labour intensive methods involving reach trucks, forklifts, man-cages and scissor-lifts. 
+
+DroneScan uses a drone to scan the barcode on each pallet and records the location of each item in the warehouse management system, proving to be up to 50 times faster than manual capturing. 
+
+DroneScan uses the latest drone platforms, hardware, software, scanning and communications technology and integrates to existing warehouse management systems and Excel.
+The DroneScan system provides two revolutionary solutions to scanning products and pallets in warehouses. Either the Hadeda system, consisting of a Drone and Dronescan payload which reaches the high shelves and methodically moves down the aisles scanning pallet barcodes. Or the Buffalo unit which is lifted by forklift to the correct shelf height while the operator receives live feedback as it scans.
